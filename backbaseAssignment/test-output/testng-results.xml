@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+    </line>
+    <line>
+      <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62851" started-at="2018-12-10T14:10:08Z" finished-at="2018-12-10T14:11:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62851" started-at="2018-12-10T14:10:08Z" finished-at="2018-12-10T14:11:11Z">
+      <class name="TestCasesPackage.TestCases">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="OpenApplication" is-config="true" duration-ms="7925" started-at="2018-12-10T14:10:09Z" finished-at="2018-12-10T14:10:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="CreateComputer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="CreateComputer" duration-ms="6051" started-at="2018-12-10T14:10:17Z" data-provider="getComputerData" finished-at="2018-12-10T14:10:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lee Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2017-01-01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2018-01-01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Lee Test Updated]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2017-02-02]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2018-02-02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="tearDown" is-config="true" duration-ms="688" started-at="2018-12-10T14:10:23Z" finished-at="2018-12-10T14:10:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="OpenApplication" is-config="true" duration-ms="5476" started-at="2018-12-10T14:10:24Z" finished-at="2018-12-10T14:10:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="CreateComputer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="CreateComputer" duration-ms="2781" started-at="2018-12-10T14:10:29Z" data-provider="getComputerData" finished-at="2018-12-10T14:10:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2016-02-07]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2017-02-07]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test Test Updated]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2016-03-07]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2017-03-07]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="tearDown" is-config="true" duration-ms="668" started-at="2018-12-10T14:10:32Z" finished-at="2018-12-10T14:10:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="OpenApplication" is-config="true" duration-ms="5650" started-at="2018-12-10T14:10:33Z" finished-at="2018-12-10T14:10:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="UpdateComputer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:TestCasesPackage.TestCases@598067a5]" name="UpdateComputer" duration-ms="3429" started-at="2018-12-10T14:10:39Z" data-provider="getComputerData" finished-at="2018-12-10T14:10:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lee Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2017-01-01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2018-01-01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Lee Test Updated]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2017-02-02]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2018-02-02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="tearDown" is-config="true" duration-ms="702" started-at="2018-12-10T14:10:42Z" finished-at="2018-12-10T14:10:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="OpenApplication" is-config="true" duration-ms="5887" started-at="2018-12-10T14:10:43Z" finished-at="2018-12-10T14:10:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="UpdateComputer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:TestCasesPackage.TestCases@598067a5]" name="UpdateComputer" duration-ms="4407" started-at="2018-12-10T14:10:49Z" data-provider="getComputerData" finished-at="2018-12-10T14:10:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2016-02-07]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2017-02-07]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test Test Updated]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2016-03-07]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2017-03-07]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="tearDown" is-config="true" duration-ms="679" started-at="2018-12-10T14:10:53Z" finished-at="2018-12-10T14:10:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="OpenApplication" is-config="true" duration-ms="5669" started-at="2018-12-10T14:10:54Z" finished-at="2018-12-10T14:10:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="DeleteComputer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:TestCasesPackage.TestCases@598067a5]" name="DeleteComputer" duration-ms="2719" started-at="2018-12-10T14:10:59Z" data-provider="getComputerData" finished-at="2018-12-10T14:11:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lee Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2017-01-01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2018-01-01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Lee Test Updated]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2017-02-02]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2018-02-02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="tearDown" is-config="true" duration-ms="670" started-at="2018-12-10T14:11:02Z" finished-at="2018-12-10T14:11:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="OpenApplication" is-config="true" duration-ms="5482" started-at="2018-12-10T14:11:03Z" finished-at="2018-12-10T14:11:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Starting a new Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="DeleteComputer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:TestCasesPackage.TestCases@598067a5]" name="DeleteComputer" duration-ms="2322" started-at="2018-12-10T14:11:08Z" data-provider="getComputerData" finished-at="2018-12-10T14:11:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2016-02-07]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2017-02-07]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test Test Updated]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2016-03-07]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2017-03-07]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCasesPackage.TestCases@598067a5]" name="tearDown" is-config="true" duration-ms="670" started-at="2018-12-10T14:11:11Z" finished-at="2018-12-10T14:11:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[-----------Ended Chrome Browser Session-------------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesPackage.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
